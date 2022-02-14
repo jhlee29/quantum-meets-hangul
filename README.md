@@ -7,9 +7,9 @@ Our main goal is to classify Hangul(한글) characters using QML.
 Escpecially, we have utilized QSVM method to reach our goal.
 
 ## Members
-- Junghan Lee @jhlee29 <br />
-- Jinsung Bae @jin-castle <br />
+- Junghan Lee [@jhlee29](https://github.com/jhlee29) <br />
+- Jinsung Bae [@jin-castle](https://github.com/jin-castle) <br />
 
 ## Mentors
-- Kifumi Numata @kifumi <br />
-- Dayeong Kang @tula3and <br />
+- Kifumi Numata [@kifumi](https://github.com/kifumi) <br />
+- Dayeong Kang [@tula3and](https://github.com/tula3and) <br />
