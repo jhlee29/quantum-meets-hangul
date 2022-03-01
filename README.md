@@ -6,6 +6,9 @@ Recognition of arbitrary handwritten characters is a practical issue.
 Our main goal is to classify Hangul(한글) characters using QML.
 Escpecially, we have utilized QSVM method to reach our goal.
 
+## Final presentation material
+[Hangul_classification_by_QML.pdf](Hangul_classification_by_QML.pdf)<br />
+
 ## Members
 - Junghan Lee [@jhlee29](https://github.com/jhlee29) <br />
 - Jinsung Bae [@jin-castle](https://github.com/jin-castle) <br />
